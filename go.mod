@@ -1,4 +1,4 @@
-module github.com/ctangarife/gaia
+module github.com/ctangarife/go-gaia
 
 go 1.19
 

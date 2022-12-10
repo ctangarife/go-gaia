@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	gtp "github.com/ctangarife/gaia/gtp3"
+	gtp "github.com/ctangarife/go-gaia/gtp3"
 )
 
 func main() {
